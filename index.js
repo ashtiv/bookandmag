@@ -4,7 +4,7 @@ var nio = require('node.io')
 var bodyParser = require('body-parser');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
-const port = process.env.port || 5000;
+const port = process.env.PORT || 5000;
 var books = [];
 var magazines = [];
 var bandm = []
