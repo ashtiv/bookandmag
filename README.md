@@ -2,6 +2,9 @@
 
 ## Get requests
 
+### localhost:5000 or https://bookandmag.herokuapp.com
+ Welcome to Server
+
 ### localhost:5000/all or https://bookandmag.herokuapp.com/all
  to get all books and magazines together as json in sorted way according to title
  
